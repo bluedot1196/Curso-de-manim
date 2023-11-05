@@ -1,3 +1,5 @@
+from manim import*
+
 class parametrica(Scene):
     def construct(self):
 
