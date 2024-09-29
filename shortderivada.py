@@ -1,6 +1,6 @@
 from manim import*
 
-class video(Scene):
+class derivada(Scene):
 	def setup(self, add_border = False):
 		if add_border:
 			self.border = Rectangle(
